@@ -1,1 +1,1 @@
-ola day zero
+ola only
